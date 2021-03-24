@@ -47,3 +47,5 @@
 
 2. Stack, Heap, Queue
     2.1 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank
+
+    2.2 https://leetcode.com/problems/k-closest-points-to-origin/
