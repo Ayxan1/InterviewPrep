@@ -41,3 +41,5 @@
 
             console.log(insertion(unsortedArr));
 
+     1.6  Two Pointers
+            https://leetcode.com/problems/remove-duplicates-from-sorted-array          
