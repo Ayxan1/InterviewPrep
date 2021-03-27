@@ -51,3 +51,14 @@
     2.2 https://leetcode.com/problems/k-closest-points-to-origin/
 
     2.3 https://leetcode.com/problems/sort-characters-by-frequency/
+
+    2.4 QuickSort Partitioning https://www.youtube.com/watch?v=MZaf_9IZCrc&ab_channel=KCAng
+
+3. Link list
+    3.1 https://www.youtube.com/watch?v=OFr16YdsBEQ&list=WL&index=6&ab_channel=KennyTalksCode
+    3.2 Floyd Cycle Detection Alghoritm
+    3.3 https://leetcode.com/problems/linked-list-cycle-ii/
+    3.4 https://leetcode.com/problems/merge-two-sorted-lists/
+    3.5 https://leetcode.com/problems/add-two-numbers/
+    3.6 https://leetcode.com/problems/partition-list/
+    3.7 https://leetcode.com/problems/reverse-linked-list/       
