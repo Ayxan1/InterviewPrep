@@ -62,3 +62,5 @@
     3.5 https://leetcode.com/problems/add-two-numbers/
     3.6 https://leetcode.com/problems/partition-list/
     3.7 https://leetcode.com/problems/reverse-linked-list/       
+
+*** Motivation https://leetcode.com/discuss/interview-experience/1131597/my-interview-experiences-at-faangs
